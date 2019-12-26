@@ -5,8 +5,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-//MUHAMMET KÜRÞAT AÇIKGÖZ
-//150116020
 
 /*This program is written to solve cnf problems. It will read an input.cnf file and
  * create an output.cnf file to write a single solution */
