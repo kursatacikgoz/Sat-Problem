@@ -10,7 +10,7 @@ import java.util.Scanner;
  * create an output.cnf file to write a single solution */
 
 
-public class s150116020 {
+public class sat {
 	//this is an updateArray function, takes two array one is 2D other is 1D
 	//updates 2D arrays rows with checking second array
 	//if a row will not solves the problem updates 1.column of this row to -1
